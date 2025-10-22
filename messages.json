@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updated_at": "2025-10-22T08:30:00Z",
+  "lang": "it-IT",
+  "speech_rate": 0.8,
+  "default_message": "Codice {code} rilevato",
+  "map": {
+    "1": "Benvenuto al punto uno",
+    "2": "Attenzione: area riservata",
+    "3": "Zona di carico: procedere con cautela",
+    "4": "Segui la freccia a sinistra",
+    "5": "Uscita di emergenza",
+    "6": "Punto informativo",
+    "7": "Inizio percorso guidato",
+    "8": "Fine percorso guidato",
+    "9": "Attendere istruzioni",
+    "10": "Grazie, operazione completata"
+  }
+}
