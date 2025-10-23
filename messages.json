@@ -6,6 +6,7 @@
   "default_message": "Codice {code} rilevato",
   "map": {
     "1": "Benvenuto al punto uno",
+    "23": "Vai a fare i bocchini",
     "2": "Attenzione: area riservata",
     "3": "Zona di carico: procedere con cautela",
     "4": "Segui la freccia a sinistra",
