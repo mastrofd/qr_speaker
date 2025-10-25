@@ -3,12 +3,16 @@
     "START": "Avvio sistema",
     "STOP": "Arresto completato",
     "001": "Benvenuto alla stazione di carico",
-    "002": "Uscita di sicurezza a destra"
+    "002": "Uscita di sicurezza a destra",
+    "13": "Benvenuto al concerto RDS capodanno 2025",
+    "15": "App in via di sviluppo"
   },
   "en": {
     "START": "System start",
     "STOP": "Shutdown complete",
     "001": "Welcome to the loading station",
-    "002": "Emergency exit on the right"
+    "002": "Emergency exit on the right",
+    "13": "Welcome to the RDS New Year's Eve 2025 concert",
+    "15": "app under development"
   }
 }
